@@ -35,7 +35,7 @@ npx playwright show-report
 ```text
 pages/        Page objects with locators and actions for each checkout step
 tests/ui/     Test specs with the assertions
-test-data/    Product, user, billing and payment data
+test-data/    Product, user and payment data
 playwright.config.js
 .env
 ```
